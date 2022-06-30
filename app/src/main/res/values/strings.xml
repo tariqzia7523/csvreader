@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">csvreader</string>
+    <string name="unable_to_read_file">Unable to read file!</string>
+</resources>
